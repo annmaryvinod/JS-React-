@@ -109,3 +109,15 @@ This is because "class" is a reserved keyword in js and jsx template is rendered
   * Then at the bottom we export that component so that we can use it elsewhere like as we "import" the App component in the "index.js" file.
 
 
+
+4. To add dynamic content such as a variable into the component :
+
+ 1. declare it within the component before the return statement 
+ 2. use the curly braces syntax 
+ 3. The curly braces will denote that the variable within it has to be displayed in the browser like we added within the <h1>{ title }</h1> here!
+ 4. This kind of output does not work for objects and booleans! They will show error!
+ 5. Instead of hoisting you can simply write the js code within the curly braces
+ 6. The arrays when output as such would be simply converted to a string with no commas or seperations.
+
+
+
