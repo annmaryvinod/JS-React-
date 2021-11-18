@@ -7,6 +7,7 @@ import App from './App';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    {/*  <App /> is the only component that is rendered to the DOM at the position of the div with an id of "root".  */}
   </React.StrictMode>,
   document.getElementById('root')
 );
