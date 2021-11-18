@@ -47,3 +47,9 @@ This is because "class" is a reserved keyword in js and jsx template is rendered
  4. This kind of output does not work for objects and booleans! They will show error!
  5. Instead of hoisting you can simply write the js code within the curly braces
  6. The arrays when output as such would be simply converted to a string with no commas or seperations.
+
+
+
+ 5. Component Tree 
+
+ <img src = "react1.png">
