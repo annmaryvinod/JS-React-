@@ -67,3 +67,11 @@ This is because "class" is a reserved keyword in js and jsx template is rendered
 * The css property and value are typed in the proper syntax within the object braces.
 
 * Remember to camelcase css properties that are two words.
+
+
+
+8. Points related to adding events :
+
+ * remember the "no invoking" rule
+
+ * "wrap in an anonymous function" rule in case parameter to be added.

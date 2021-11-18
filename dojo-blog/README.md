@@ -80,6 +80,11 @@ With "simple react snippets" installed just type "sfc" and then click "tab". Thi
 
 
 
+2. Revisit tutorial #7 on click and events. It is important.
+
+
+
+
 
 
 
