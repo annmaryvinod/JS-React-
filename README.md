@@ -53,3 +53,17 @@ This is because "class" is a reserved keyword in js and jsx template is rendered
  5. Component Tree 
 
  <img src = "react1.png">
+
+
+ 6. To make a new component, create a new file like "Navbar.js" with the "src" folder.
+
+
+ 7. How to add styles to components :
+
+ <img src= "react2.png">
+
+ * The first curly brace represents the dynamic value or the variable while the second one represents a js object.
+
+* The css property and value are typed in the proper syntax within the object braces.
+
+* Remember to camelcase css properties that are two words.

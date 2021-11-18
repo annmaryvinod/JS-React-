@@ -71,6 +71,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
+<!-- Some keys used -->
+
+1. sfc (from "simple react snippets" package) : stateless functional component
+
+With "simple react snippets" installed just type "sfc" and then click "tab". This will create an arrow function for our component.
+
 
 
 
